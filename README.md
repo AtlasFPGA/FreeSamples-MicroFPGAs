@@ -7,7 +7,7 @@
 ![Free samples from Intel](https://github.com/AtlasFPGA/FreeSamples_MicroFPGAs/raw/main/FOTOS/European%20Program%20Micro-FPGAS.png)
 
 ---
-Lick of arrow Europe:
+These is the link of Arrow Europe:
 https://www.arrow.com/en/family/intel-solutions-europe
 
    Para el proceso de petición a Intel hay que redactar un buen proyecto en la solicitud, el envío de las placas de muestras enviadas, vienen franqueadas desde Alemania y no confirman que has pasado el corte, suerte en la redacción de los proyectos que entregéis.
