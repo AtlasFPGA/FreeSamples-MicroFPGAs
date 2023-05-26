@@ -16,7 +16,7 @@ https://www.arrow.com/en/family/intel-solutions-europe
 
    Numeramos según la posición en la fotografía:
 
-1. MAX1000 -> 8Kles y 8Mbytes integrados, 2 cores se pueden almacenar en su interior, 31 pines libres, Nota importante tiene Analizadores Analógicos a digital.
+1. MAX1000 -> 8Kles y 8Mbytes integrados, 2 cores se pueden almacenar en su interior, 31 pines libres, Nota importante tiene Conversores Analógicos a digital.
 2. CYC1000 -> 25Kles, y 8MBytes de ram a 166Mhz la cual puede alcanzar 233Mhz. 31 Señales,2Mbytes spi, acelerómetro, más dos pull programables en K1 y L1.
 3. MAX10    -> para gestión de control de alimentación de circuitos.
 
