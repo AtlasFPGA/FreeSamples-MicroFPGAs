@@ -10,9 +10,9 @@
 These is the link of Arrow Europe:
 https://www.arrow.com/en/family/intel-solutions-europe
 
-   Para el proceso de petición a Intel hay que redactar un buen proyecto en la solicitud, el envío de las placas de muestras enviadas, vienen franqueadas desde Alemania y no confirman que has pasado el corte, suerte en la redacción de los proyectos que entregéis.
+   Para el proceso de petición a Intel hay que redactar un buen proyecto en la solicitud, el envío de las placas de muestras enviadas, vienen franqueadas desde Alemania y no confirman que has pasado el corte, suerte en la redacción de los proyectos que entreguéis.
 
-   Explicamos un poco en español las 3 placas que ofrece este programa Europeo de Intel:
+   Explicamos un poco en Español las 3 placas, que ofrece este programa Europeo de Intel:
 
    Numeramos según la posición en la fotografía:
 
