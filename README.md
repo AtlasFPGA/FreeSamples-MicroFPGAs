@@ -29,6 +29,6 @@ https://www.utmel.com/productdetail/trenzelectronic-cyc1000-31981466?gclid=EAIaI
 
 ![CYC1000](http://www.forofpga.es/download/file.php?id=761)
 
-# IF A RESOLUTION IS AFIRMATIVE:
+# THE SEND CARD WITH CYC1000 IF A RESOLUTION IS AFIRMATIVE:
 
 ![Carta afirmativa muestras gratuitas de intel](https://github.com/AtlasFPGA/FreeSamples_MicroFPGAs/blob/main/FOTOS/Carta_franqueada_desde_alemania_trenz_arrow_intel_european_program_IMG_20230208_195306.jpg)
