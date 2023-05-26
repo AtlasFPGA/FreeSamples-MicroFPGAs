@@ -4,7 +4,7 @@
 ---
 
 # EUROPEAN PROGRAM INTEL:
-![Free samples from Intel](https://github.com/AtlasFPGA/FreeSamples-MicroFPGAs/raw/main/FOTOS/European%20Program%20Micro-FPGAS.png)
+![Free samples from Intel](https://github.com/AtlasFPGA/FreeSamples_MicroFPGAs/raw/main/FOTOS/European%20Program%20Micro-FPGAS.png)
 
 ---
 Lick of arrow Europe:
