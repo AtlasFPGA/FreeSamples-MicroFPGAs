@@ -10,6 +10,18 @@ Indicar direcciones correctas para obtener MicroFPGAs
 Lick of arrow Europe:
 https://www.arrow.com/en/family/intel-solutions-europe
 
+Para el proceso de peción a Intel hay que redactar un buen proyecto en la solicitud, el envío de las placas de muestras enviadas, vienen franqueadas desde Alemania y no confirman que has pasado el corte, suerte en la redacción de los proyectos que entregéis.
+
+Explicamos un poco en español las 3 placas que ofrece este programa Europeo de Intel:
+
+Numeramos según la posición en la fotografía:
+
+1- MAX1000 -> 8Kles y 8Mbytes integrados, 2 cores se pueden almacenar en su interior, 31 pines libres, Nota importante tiene Analizadores Analógicos a digital.
+2- CYC1000 -> 25Kles, y 8MBytes de ram a 166Mhz la cual puede alcanzar 233Mhz. 31 Señales,2Mbytes spi, acelerómetro, más dos pull programables en K2 y L2.
+3.- MAX10    -> para gestión de control de alimentación de circuitos.
+
+La mayoría de los cores estan portados a la CYC1000 por ser más prioritaria la cantidad de Kles que lleva la CYC1000 -> 25Kles.
+
 # FREE SAMPLES AT UTMEL:
 Os comunicamos que la empresa UTMEL ha habilitado otra forma de pedir muestras gratuitas, es una peticion de muestras más tradicional, En el formulario se pueden pedir unidades de muestra de CYC1000: 
 
