@@ -38,6 +38,6 @@ https://www.utmel.com/productdetail/trenzelectronic-cyc1000-31981466?gclid=EAIaI
 # PODÉIS VER COMO LA ANALIZÓ TRASTERLABS MIRANDO ESQUEMA Y DOCUMENTACIÓN:
 # YOU CAN SEE A FUNNY DESCRIPTION OF CYC1000 IN TRASTERLABS :
 
-   En él nos analizan que un componente relacionado con la conversión de tensiones para alimentar la placa esta en fase-out o en roman paladino, se dejó de producir.
+   En él nos analizan que un componente relacionado con la conversión de tensiones, encargado de alimentar la placa; esta en fase-out... o en roman paladino, se dejó de producir.
 
 [![TRASTERLABS CON CYC1000](https://img.youtube.com/vi/0bHM3NtVle0/0.jpg)](https://www.youtube.com/watch?v=0bHM3NtVle0)
