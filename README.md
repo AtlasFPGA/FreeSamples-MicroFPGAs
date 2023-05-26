@@ -28,3 +28,7 @@ Os comunicamos que la empresa UTMEL ha habilitado otra forma de pedir muestras g
 https://www.utmel.com/productdetail/trenzelectronic-cyc1000-31981466?gclid=EAIaIQobChMIv9Gv472L_wIVTvN3Ch20fwNuEAMYASAAEgKpy_D_BwE
 
 ![CYC1000](http://www.forofpga.es/download/file.php?id=761)
+
+# IF A RESOLUTION IS AFIRMATIVE:
+
+![Carta afirmativa muestras gratuitas de intel](https://github.com/AtlasFPGA/FreeSamples_MicroFPGAs/blob/main/FOTOS/Carta_franqueada_desde_alemania_trenz_arrow_intel_european_program_IMG_20230208_195306.jpg)
