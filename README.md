@@ -15,4 +15,4 @@ Os comunicamos que la empresa UTMEL ha habilitado otra forma de pedir muestras g
 
 https://www.utmel.com/productdetail/trenzelectronic-cyc1000-31981466?gclid=EAIaIQobChMIv9Gv472L_wIVTvN3Ch20fwNuEAMYASAAEgKpy_D_BwE
 
-[img]https://vhdplus.com/assets/images/Top_labled-1b5bc8d920ca9254728bfa2788a95d05.png[/img]
+![CYC1000](http://www.forofpga.es/download/file.php?id=761)
