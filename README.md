@@ -24,7 +24,7 @@ La mayoría de los cores estan portados a la CYC1000 por ser más prioritaria la
 
 # PETICIÓN TRADICIONAL DE MUESTRAS EN UTMEL PARA LA PLACA CYC1000:
 # FREE SAMPLES AT UTMEL:
-Os comunicamos que la empresa UTMEL ha habilitado otra forma de pedir muestras gratuitas, es una peticion de muestras más tradicional, En el formulario se pueden pedir unidades de muestra de CYC1000: 
+   Os comunicamos que la empresa UTMEL ha habilitado otra forma de pedir muestras gratuitas, es una peticion de muestras más tradicional, En el formulario se pueden pedir unidades de muestra de CYC1000: 
 
 https://www.utmel.com/productdetail/trenzelectronic-cyc1000-31981466?gclid=EAIaIQobChMIv9Gv472L_wIVTvN3Ch20fwNuEAMYASAAEgKpy_D_BwE
 
@@ -34,3 +34,10 @@ https://www.utmel.com/productdetail/trenzelectronic-cyc1000-31981466?gclid=EAIaI
 # THE SENDED CARD WITH CYC1000 IF A RESOLUTION IS AFIRMATIVE:
 
 ![Carta afirmativa muestras gratuitas de intel](https://github.com/AtlasFPGA/FreeSamples_MicroFPGAs/blob/main/FOTOS/Carta_franqueada_desde_alemania_trenz_arrow_intel_european_program_IMG_20230208_195306.jpg)
+
+# PODÉIS VER COMO LA ANALIZÓ TRASTERLABS MIRANDO ESQUEMA Y DOCUMENTACIÓN:
+# YOU CAN SEE A FUNNY DESCRIPTION OF CYC1000 IN TRASTERLABS :
+
+   En él nos analizan que un componente relacionado con la conversión de tensiones para alimentar la placa esta en fase-out o en roman paladino, se dejó de producir.
+
+[![TRASTERLABS CON CYC1000](https://img.youtube.com/vi/0bHM3NtVle0/0.jpg)](https://www.youtube.com/watch?v=0bHM3NtVle0)
